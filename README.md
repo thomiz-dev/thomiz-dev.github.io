@@ -1,1 +1,1 @@
-# (dao.thomiz.dev)[dao.thomiz.dev]
+# [dao.thomiz.dev](dao.thomiz.dev)
