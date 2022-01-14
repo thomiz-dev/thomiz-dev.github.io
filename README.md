@@ -2,7 +2,7 @@
 ## The Leading Gateway DAO on VITE.
 ### "Focusing on coins & tokens making a real change in the crypto ecosystem"
 
-[x] $UST - United States Terra
+[ ] $UST - United States Terra
 
 [ ] $LUNA - Luna
 
