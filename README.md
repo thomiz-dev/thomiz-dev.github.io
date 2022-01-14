@@ -4,10 +4,10 @@
 
 "Focusing on coins & tokens making a real change in the crypto ecosystem"
 
-[ ] $UST - United States Terra
+- [ ] $UST - United States Terra
 
-[ ] $LUNA - Luna
+- [ ] $LUNA - Luna
 
-[ ] $WAXP - Wax
+- [ ] $WAXP - Wax
 
-[ ] More to come...
+- [ ] More to come...
