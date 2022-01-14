@@ -1,4 +1,4 @@
-# [ExperimentDAO | eDAO](dao.thomiz.dev)
+# [ExperimentDAO | eDAO](https://dao.thomiz.dev/)
 
 ### The Leading Gateway DAO on VITE.
 
